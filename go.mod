@@ -1,4 +1,4 @@
-module github.com/Jeselnik/rb-scrobbler
+module github.com/adammillerio/rb-scrobbler
 
 go 1.18
 
